@@ -1,0 +1,14 @@
+
+{nombre maculino}__________
+{lugar}__________
+{platillo}__________
+{adjetivo femenino plural}__________
+{animal}
+
+
+
+
+
+
+
+{Nombre de masculino}_______ era un chico que le encantaba pasear por {lugar}_______, ahí se sentaba para hacer un picnic y llevaba un {platillo}________. Por la tarde platicaba con su familiar y le gustaba platicar de las {adjetivo femenino plural}________ aventuras que vivieron cuando eran jovenes. Por las noches llegaba su casa y le daba de comer a su {animal}_______ y de ahí se iba a dormir.
